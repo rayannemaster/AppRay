@@ -1,0 +1,75 @@
+
+
+html, body{margin: 0px;
+}   
+
+head{text-align: center;}
+main{text-align: center;}
+footer{text-align: center;}
+
+
+section.form
+.peças{grid-column: 1fr 1fr}
+
+form{grid-template-columns: 1fr 1fr;}
+
+
+ main button{
+    padding: 4px 12px;
+    border-radius: 4px;
+  }
+
+  h1{text-align: center;}
+
+    
+    main .peças{display:grid;
+                    grid-template-columns: 1fr 1fr ;
+                  }
+
+
+
+    footer{margin-top:auto; 
+      padding: 16px;
+      border-color: tomato
+  }
+
+    
+   
+    
+ 
+  
+   
+  
+    /* espeçamento com margin*/
+
+    header, .form, main
+    
+  {margin:0 auto 100px auto ;
+
+     /*limites dos elementos na pagina*/
+   
+     width: 90%;
+     max-width : 500%;
+
+  
+   margin-left: auto;
+  margin-right: auto;
+  }
+
+   
+  
+footer{margin-top: auto;}
+
+
+header h1, main h2{margin: bottom
+     100px;
+
+
+}
+.form h2{
+  margin-left: auto;
+  margin-right: 50px;
+  
+}
+
+    
