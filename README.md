@@ -1,8 +1,10 @@
+
 <!DOCTYPE html>
 <html>
     <head>
         <title> Icaro Iformatica</title>
         <link rel="stylesheet" href="style.css">
+        <h1>Icaro informatica usados</h1>
     </head>
      
     <body>
@@ -11,7 +13,7 @@
         <main>
             
             
-            <h1>Icaro informatica usados</h1>
+            
             <h2>VendaS Assistencia  Tecnica E Suporte </h2>
              <h1>Assistencia Tecnica Especializada em Notbooks e Computados</h1>
             <h2>Trabalhamos com o seu usado</h2>
@@ -35,4 +37,3 @@
         
    
 </footer>
-5
